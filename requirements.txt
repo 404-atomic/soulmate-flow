@@ -1,0 +1,6 @@
+ 
+streamlit==1.44.0
+langchain-openai==0.3.14
+langgraph==0.3.31
+python-dotenv==1.1.0
+nicegui==1.4.5
